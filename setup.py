@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='flask-dev-mark-middleware',
     version='0.0.1',
-    description='',
+    description='Show dev mark on flask app',
     license='MIT',
     author='simota',
     author_email='simota@me.com',
