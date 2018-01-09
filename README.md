@@ -3,7 +3,7 @@
 ## install
 
 ```
-pip install flask-dev-mark
+pip install flask-dev-mark-middleware
 ```
 
 ## How to use
